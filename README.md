@@ -57,7 +57,8 @@
   - **Codex Plus 官方原号直充月卡（原价 ¥158，填本工具包专属码 `DOUYINVIP888` 立减 10 元，¥148 拿下）**：直达通道 👉 [https://wzyp.cn/item/qpbnfn](https://wzyp.cn/item/qpbnfn)
   - **Codex 250点官方使用额度补充包**（赶标救急）：直达通道 👉 [https://wzyp.cn/item/ctma3h](https://wzyp.cn/item/ctma3h)
   - **Claude Pro 官方原号直充月卡**（长文润色天花板）：直达通道 👉 [https://wzyp.cn/item/i1phs0](https://wzyp.cn/item/i1phs0)
-  - **Pro 5X ($100) / 20X ($200) 企业级满血月卡**：直达通道 👉 [https://wzyp.cn/item/rt2alx](https://wzyp.cn/item/rt2alx)
+  - **Pro 5X ($100) 满血月卡**：直达通道 👉 [https://wzyp.cn/item/5q9ewz](https://wzyp.cn/item/5q9ewz)
+  - **Pro 20X ($200) 企业级满血月卡**：直达通道 👉 [https://wzyp.cn/item/1vqy3x](https://wzyp.cn/item/1vqy3x)
 
 ---
 
