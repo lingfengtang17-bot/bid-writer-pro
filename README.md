@@ -54,7 +54,7 @@
 如果你手里没有海外万事达卡，或者怕在闲鱼/某宝买到「黑卡 0 元试用号」写到一半封号丢标书，可直接使用我们整理的**正规菲区万事达白卡一卡一付通道**（充你自己的号，不收密码，带 Stripe 官方收据，30天质保）：
 
 - 👉 **自助补给主站**：[https://wzyp.cn/shop/7KKGS49M](https://wzyp.cn/shop/7KKGS49M)
-  - **Codex Plus 官方原号直充月卡（原价 ¥158，填本工具包专属码 `DOUYINVIP888` 立减 10 元，¥148 拿下）**：直达通道 👉 [https://wzyp.cn/item/qpbnfn](https://wzyp.cn/item/qpbnfn)
+  - **Codex Plus 官方原号直充月卡（原价 ¥158，填本工具包专属码 `DOUYINVIP888` 立减 10 元，实付以页面为准）**：直达通道 👉 [https://wzyp.cn/item/qpbnfn](https://wzyp.cn/item/qpbnfn)
   - **Codex 250点官方使用额度补充包**（赶标救急）：直达通道 👉 [https://wzyp.cn/item/ctma3h](https://wzyp.cn/item/ctma3h)
   - **Claude Pro 官方原号直充月卡**（长文润色天花板）：直达通道 👉 [https://wzyp.cn/item/i1phs0](https://wzyp.cn/item/i1phs0)
   - **Pro 5X ($100) 满血月卡**：直达通道 👉 [https://wzyp.cn/item/5q9ewz](https://wzyp.cn/item/5q9ewz)
