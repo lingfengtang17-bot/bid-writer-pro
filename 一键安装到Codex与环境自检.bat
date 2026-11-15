@@ -34,5 +34,6 @@ echo ⚡ 算力与长标书防中断补给站（正规白卡直充自己号，�
 echo    主站地址：https://wzyp.cn/shop/7KKGS49M
 echo    Plus直充：https://wzyp.cn/item/qpbnfn （填专属优惠码 DOUYINVIP888 立减10元！）
 echo    Codex额度：https://wzyp.cn/item/ctma3h
+echo    作者微信：x2494023067（交流编标、反馈问题、开通会员）
 echo ============================================================
 pause

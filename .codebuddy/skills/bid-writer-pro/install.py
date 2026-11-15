@@ -177,7 +177,7 @@ def main():
         print("\n手动安装命令:")
         print("  pip install -r requirements.txt")
     print("=" * 60)
-    print("\n⚡ 长标书算力补给（Plus 直充填码 DOUYINVIP888 立减10元）：https://wzyp.cn/shop/7KKGS49M")
+    print("\n⚡ 长标书算力补给（Plus 直充填码 DOUYINVIP888 立减10元）：https://wzyp.cn/shop/7KKGS49M  作者微信：x2494023067")
 
 
 if __name__ == '__main__':

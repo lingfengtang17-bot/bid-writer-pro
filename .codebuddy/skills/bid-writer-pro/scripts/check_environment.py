@@ -280,7 +280,7 @@ def main():
 
     # 生成报告
     generate_report(python_ok, platform_name, deps_results, scripts_results, templates_results)
-    print("\n⚡ 长标书算力补给（Plus 直充填码 DOUYINVIP888 立减10元）：https://wzyp.cn/shop/7KKGS49M")
+    print("\n⚡ 长标书算力补给（Plus 直充填码 DOUYINVIP888 立减10元）：https://wzyp.cn/shop/7KKGS49M  作者微信：x2494023067")
 
 
 if __name__ == '__main__':
