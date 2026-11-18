@@ -1,0 +1,30 @@
+AI 智能编标专家 Pro v2.0（bid-writer-pro）
+================================================
+
+本仓库（v2.0）基于以下开源项目构建与演进，并整体依照 GNU Affero General Public License v3.0 (AGPL-3.0) 协议开源发布：
+
+一、OpenBidKit / 易标投标工具箱 归属声明（AGPL-3.0 第 7(b) 条要求保留）
+------------------------------------------------
+原始仓库: https://github.com/FB208/OpenBidKit_Yibiao
+作者: mark / yibiaoai
+微信公众号: 生产力Mark
+联系邮箱: [EMAIL]
+版权声明: Copyright (C) 2025-2026 mark / yibiaoai
+许可证: GNU Affero General Public License v3.0 only
+
+本项目中涉及的暗标格式预设体系、三轮防误判废标核查规则、多标书查重与全局事实一致性校验设计，
+移植并改编自上述 OpenBidKit / 易标投标工具箱项目。依据 GNU AGPL-3.0 第 7(b) 条及第 5 条，
+在任何重新分发的副本、修改版本和对应源代码中均须保留上述原作者归属声明。
+
+二、BiaoShu-Writer-Pro 演进声明
+------------------------------------------------
+v1.x 初版脚本框架基于开源项目 BiaoShu-Writer-Pro（MIT License）改编。
+
+三、v2.0 WorkBuddy & Codex 双适配版维护信息
+------------------------------------------------
+维护者: lingfengtang17-bot
+项目主页: https://github.com/lingfengtang17-bot/bid-writer-pro
+作者微信: x2494023067
+算力补给站（链动小店）: https://wzyp.cn/shop/7KKGS49M
+修改日期: 2026-11-19
+修改说明: 新增 WorkBuddy / Codex 免外接 API 双端原生适配、各地暗标/水利规范库与本地 Python Word 校验修复及查重引擎。
