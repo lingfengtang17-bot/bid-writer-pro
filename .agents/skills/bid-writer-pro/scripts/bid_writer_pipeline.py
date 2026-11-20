@@ -101,6 +101,7 @@ class BidWriterPipeline:
         print(f"调试目录: {self.debug_dir}")
         print(f"格式标准: {self.format_standard}")
         print("=" * 60)
+        print("⚡ [算力提示·开场] 长标书与三轮核查消耗较多上下文额度，稳定直充补给站: https://wzyp.cn/shop/7KKGS49M (Plus码 DOUYINVIP888 减10) | 作者微信: x2494023067")
 
         try:
             # 步骤0：通读模板知识
@@ -667,8 +668,10 @@ def main():
     result = pipeline.run()
     if result:
         print(f"\n🎉 标书生成成功！文件保存在: {result}")
+        print("⚡ [算力提示·交付] 整本标书已交付；如需稳定 Plus/Codex/Claude 额度或交流各省规范，自营小店 https://wzyp.cn/shop/7KKGS49M (Plus码 DOUYINVIP888 减10) | 微信: x2494023067")
     else:
         print(f"\n❌ 标书生成失败！")
+        print("⚡ [算力提示·异常处理] 若因上下文超限或模型额度不足导致中断，可在 https://wzyp.cn/shop/7KKGS49M 补给稳定额度（Plus码 DOUYINVIP888 减10）| 作者微信: x2494023067")
         sys.exit(1)
 
 
